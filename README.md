@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Dhinesh Elangovan
 
-Welcome to my GitHub profile! I'm an aspiring AI developer and backend engineer passionate about building impactful, human-centered, and explainable technologies. I specialize in combining full-stack development, machine learning, and logic programming to create real-world solutions.
+Welcome to my GitHub profile! I'm an frontend developer and enthusiast on AI, passionate about building impactful, human-centered, and explainable technologies. I specialize in combining full-stack development, machine learning, and logic programming to create real-world solutions.
 
 ---
 
